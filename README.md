@@ -50,4 +50,5 @@
 
 ### :smiley: Extra:
 If you arrived this far then you definitely deserve a reward so here is a joke for you: 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
