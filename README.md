@@ -23,8 +23,8 @@
 
 ### :trophy: My Badges :
 <div>
-  <a href="https://images.credly.com/size/680x680/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png">
-    <img src="https://images.credly.com/size/680x680/images/94d0811d-8fed-47e5-acc8-50b69342a9a4/pcep-30-02-badge.png" title="[PCEP-30-02] PCEP – Certified Entry-Level Python Programmer" alt="Python Institute" width="100" height="100"/>&nbsp;
+  <a href="https://www.credly.com/badges/0c3fb89d-cc86-4fcc-8930-537273595939/public_url">
+    <img src="https://images.credly.com/size/680x680/images/b790eb12-ecb3-4b94-89be-61aa40c92e7c/image.png" title="[PCEP-30-02] PCEP – Certified Entry-Level Python Programmer" alt="Python Institute" width="100" height="100"/>&nbsp;
   </a>
 </div>
 
@@ -44,8 +44,6 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ProfesionalFailer&theme=monokai&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ProfesionalFailer&show_icons=true&theme=monokai&date_format=j%20M%5B%20Y%5D)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProfesionalFailer&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
