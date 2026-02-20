@@ -14,8 +14,8 @@
 ---
 
 ### 👩‍💻  About Me :
-- :wave: Hi, I’m @ProfesionalFailer, though my true name is Luca. I'm a student of G.B Vico in Naples!
-- :school: My scholastic account is [@PatrunoLuca](https://github.com/PatrunoLuca)
+- :wave: Hi, I’m @ProfesionalFailer, though my true name is Luca. I'm a student of Computer Sciemce at UNINA!
+- :school: My old scholastic account from high school is [@PatrunoLuca](https://github.com/PatrunoLuca) if you want to see my old projecrs
 - :seedling: I’m currently trying to master CSS
 - :gear: Currently working on an unofficial api to scrape ["Pokemon Central Wiki"](https://github.com/ProfesionalFailer/pokecentral-api)
 
